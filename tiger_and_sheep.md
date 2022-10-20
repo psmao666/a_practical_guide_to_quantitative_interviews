@@ -18,5 +18,6 @@ sheep would be eaten, so the sheep wouldn't be eaten in case of 4 tigers.
 If we continue this thinking, we would realise that 
 
 if n is even, then the sheep wouldn't be eaten.
+
 if n is odd, then the sheep would be eaten.
 
