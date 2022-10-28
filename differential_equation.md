@@ -34,5 +34,8 @@ Let $r_{1},r_{2}$ be the roots of the characteristic equaiton $ar^{2}+br+c=0$
 ## Nonhomogeneous linear equations
 
 $$a(x)\frac{d^{2}y}{dx^{2}}+b(x)\frac{dy}{dx}+c(x)y=d(x)$$
+
 it will be homogenous solution plus particular solution, ie $$y=y_{p}(x)+y_{g}(x)$$
 
+guess table for particular solutions:
+![image](https://user-images.githubusercontent.com/113750853/198501376-ecb010c5-f1b9-426c-b86b-0cb222bea857.png)
